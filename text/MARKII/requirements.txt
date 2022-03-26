@@ -1,0 +1,11 @@
+torch==1.11.0
+torchvision==0.12.0
+torchaudio===0.11.0
+huggingface-hub==0.4.0 
+sacremoses==0.0.49 
+tokenizers==0.11.6 
+transformers==4.17.0
+requests
+beautifulsoup4
+pandas
+numpy
